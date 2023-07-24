@@ -12,9 +12,11 @@
 <p align='center' width= '300'>
     <h3 align= 'center'>Using python to clean data
 
-<img width="478" alt="Principal" src="https://github.com/nicovilla23/Sharks_data_cleansing/blob/main/Images/Captura%20de%20Pantalla%202023-07-24%20a%20las%2018.58.27.png?raw=true">
+
 
 ## Cleaning Data
+
+<img width="478" alt="Principal" src="https://github.com/nicovilla23/Sharks_data_cleansing/blob/main/Images/Captura%20de%20Pantalla%202023-07-24%20a%20las%2018.58.27.png?raw=true">
 
 In this project i aim to clean a messy set of data and analyse it based on an objective.
 
